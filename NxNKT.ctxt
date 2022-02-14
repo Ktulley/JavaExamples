@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=NxNKT
+comment1.params=n
+comment1.target=NxNKT(int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=void\ printMe()
+comment4.params=rr
+comment4.target=int\ addRow(int)
+comment5.params=
+comment5.target=void\ shake()
+comment6.params=cc
+comment6.target=int\ addCol(int)
+comment7.params=
+comment7.target=int\ addDiag1()
+comment8.params=
+comment8.target=int\ addDiag2()
+numComments=9
